@@ -1,0 +1,11 @@
+# Ignore yolov3.weights file in any directory
+**/yolov3.weights
+
+# Ignore video.mp4 file in any directory
+**/video.mp4
+
+# Ignore directories named 'yolov3.weights'
+yolov3.weights/
+
+# Ignore directories named 'video.mp4'
+video.mp4/
